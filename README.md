@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning web development and machine learning...
+- ⚡ Fun fact: I studied civil engineering but then i decided to enter the world of coding!!...
 
 <!--
 **SamAbdallah/SamAbdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
